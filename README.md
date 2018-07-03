@@ -9,7 +9,7 @@ http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
 https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/node16.html
 https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
-
+https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Deep-Reinforcement-Learning-Through-Policy-Optimization
 
 ## Papers
 https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/zhang.pdf
